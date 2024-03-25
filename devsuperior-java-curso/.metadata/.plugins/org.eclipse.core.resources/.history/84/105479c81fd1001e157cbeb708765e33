@@ -1,0 +1,27 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ex_04 {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int employeeNumber, workHours;
+		double earnPerHour, salary;
+		
+		employeeNumber = sc.nextInt();
+		workHours = sc.nextInt();
+		earnPerHour = sc.nextDouble();
+		
+		salary = workHours * earnPerHour;
+		
+		System.out.println("NUMBER = " + employeeNumber);
+		System.out.printf("SALARY = %.2f", salary);
+		
+		sc.close();
+
+	}
+
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dollar_price/dollar_price.iml" filepath="$PROJECT_DIR$/dollar_price/dollar_price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao_poo/ex01/ex01.iml" filepath="$PROJECT_DIR$/fixacao_poo/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao_poo/ex03/ex03.iml" filepath="$PROJECT_DIR$/fixacao_poo/ex03/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao_poo/ex_01/ex_01.iml" filepath="$PROJECT_DIR$/fixacao_poo/ex_01/ex_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao_poo/ex_02/ex_02.iml" filepath="$PROJECT_DIR$/fixacao_poo/ex_02/ex_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao-constructors/fixacao-constructors.iml" filepath="$PROJECT_DIR$/fixacao-constructors/fixacao-constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixacao_poo/fixacao_poo.iml" filepath="$PROJECT_DIR$/fixacao_poo/fixacao_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos.iml" filepath="$PROJECT_DIR$/.idea/projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/without_object02/without_object02.iml" filepath="$PROJECT_DIR$/without_object02/without_object02.iml" />
+    </modules>
+  </component>
+</project>
